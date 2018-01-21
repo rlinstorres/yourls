@@ -15,10 +15,10 @@ That dependencies it's gonna be resolved by berkshelf using CHEF supermaket.
 Before run this recipe you need run berks for download and install dependencies
 
 ```
-berks vendor <you_cookbooks_path>
+berks vendor <your_cookbooks_path>
 ```
  
-Gem berkshelf required be installed.
+Chefdk is required has be installed.
 
 ## Platforms:
 
