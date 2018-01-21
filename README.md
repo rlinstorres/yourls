@@ -8,7 +8,7 @@ This cookbook has some dependencies.
 
  - cookbook 'php', '~> 4.5.0'
 
- - cookbook 'php', '~> 4.5.0'
+ - cookbook 'apache2', '~> 5.0.1'
 
 That dependencies it's gonna be resolved by berkshelf using CHEF supermaket.
 
@@ -18,7 +18,7 @@ Before run this recipe you need run berks for download and install dependencies
 berks install
 ```
  
- Gem berkshelf required be installed.
+Gem berkshelf required be installed.
 
 ## Platforms:
 
