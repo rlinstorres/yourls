@@ -18,7 +18,7 @@ Before run this recipe you need run berks for download and install dependencies
 berks vendor <your_cookbooks_path>
 ```
  
-Chefdk is required has be installed.
+Chefdk is required.
 
 ## Platforms:
 
