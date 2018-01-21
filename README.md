@@ -15,7 +15,7 @@ That dependencies it's gonna be resolved by berkshelf using CHEF supermaket.
 Before run this recipe you need run berks for download and install dependencies
 
 ```
-berks install
+berks vendor <you_cookbooks_path>
 ```
  
 Gem berkshelf required be installed.
